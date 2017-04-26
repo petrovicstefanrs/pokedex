@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /javascript/
+Disallow: /cgi-bin/
+Disallow: /php/
+Disallow: /images/
+Disallow: /css/

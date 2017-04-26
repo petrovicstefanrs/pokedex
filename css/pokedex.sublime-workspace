@@ -1,0 +1,992 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"TEx",
+				"text-align"
+			],
+			[
+				"co",
+				"contain"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"R",
+				"rgba()"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"_",
+				"_REQUEST"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"tra",
+				"translateX()"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"cena",
+				"cenapopust"
+			],
+			[
+				"CArt",
+				"cartproducts"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text-d",
+				"text-decoration"
+			],
+			[
+				"prodcart_",
+				"prodcart_title"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"se",
+				"_SESSION"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"c",
+				"click"
+			],
+			[
+				"A-",
+				"A-Za-z"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"onke",
+				"onkeyup\tAttr"
+			],
+			[
+				"my",
+				"mysql_close"
+			],
+			[
+				"pu",
+				"putanja_slike"
+			],
+			[
+				"puta",
+				"putanja_velike"
+			],
+			[
+				"putana",
+				"putanja_slike"
+			],
+			[
+				"putan",
+				"putanja_slike"
+			],
+			[
+				"slika",
+				"slikaname"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"file",
+				"filetmp"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ime",
+				"ime_kategorije"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"isp",
+				"ispis"
+			],
+			[
+				"res",
+				"reskateg"
+			],
+			[
+				"upit",
+				"upitpod"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"rm",
+				"rmusr"
+			],
+			[
+				"wor",
+				"word-wrap"
+			],
+			[
+				"inpu",
+				"input\tTag"
+			],
+			[
+				"sess",
+				"session_unset"
+			],
+			[
+				"reg",
+				"register_msg"
+			],
+			[
+				"MYS",
+				"mysql_query"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"br",
+				"brojCateg"
+			],
+			[
+				"admin",
+				"adminpanel"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"text-dec",
+				"text-decoration-color"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"is_d",
+				"is_disc"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"p",
+				"p_image"
+			],
+			[
+				"d",
+				"disc_rate"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"conte",
+				"align-content"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"lo",
+				"loc"
+			],
+			[
+				"get",
+				"getLink"
+			],
+			[
+				"pat",
+				"pathName"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"P",
+				"placeholder\tAttr"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"border-r",
+				"border-top-right-radius"
+			],
+			[
+				"border-radius",
+				"border-top-left-radius"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"slid",
+				"slideDown"
+			],
+			[
+				"spac",
+				"white-space"
+			],
+			[
+				"id",
+				"id_kategorije"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"ko",
+				"konekcija"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"ow",
+				"overflow-x"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"cont",
+				"align-content"
+			],
+			[
+				"ta",
+				"table-layout"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"b",
+				"background-image"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"menu",
+				"menu_links"
+			],
+			[
+				"FONT",
+				"font-size"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"h",
+				"header\tTag"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"gra",
+				"grad"
+			],
+			[
+				"tb",
+				"tbImePrezime"
+			],
+			[
+				"mysql_conne",
+				"mysqli_connect"
+			],
+			[
+				"mysql_connect",
+				"mysql_connect"
+			],
+			[
+				"vel",
+				"velicina"
+			],
+			[
+				"im",
+				"imepre"
+			],
+			[
+				"form",
+				"forma"
+			],
+			[
+				"pre",
+				"predmeti"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"A",
+				"a-z"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"na",
+				"napomena"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 6 - PREDJENO/Preduzece_V4/Preduzece/Preduzece/PreduzeceDb.cs",
+			"settings":
+			{
+				"buffer_size": 6073,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 6 - PREDJENO/Preduzece_V4/Preduzece/Preduzece/PreduzeceModel/Zaposleni.cs",
+			"settings":
+			{
+				"buffer_size": 1718,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 6 - PREDJENO/Preduzece_V4/Preduzece/Preduzece/PreduzeceView/FZaposleni.cs",
+			"settings":
+			{
+				"buffer_size": 3281,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 6 - PREDJENO/Preduzece_V4/Preduzece/Preduzece/PreduzeceView/FGlavniProzor.cs",
+			"settings":
+			{
+				"buffer_size": 5306,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 6 - PREDJENO/Preduzece_V4/Preduzece/Preduzece/PreduzeceView/FGlavniProzor.cs",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 6 - PREDJENO/Preduzece_V4/Preduzece/Preduzece/PreduzeceView/FZaposleni.cs",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 2/Zaposleni/Zaposleni/Zaposleni/Vozac.cs",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 6/PreduzeceDb.cs",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 2/Zaposleni/Zaposleni/Zaposleni/Program.cs",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 2/Zaposleni/Zaposleni/Zaposleni/Zaposleni.cs",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 1 - PREDJENO/01 - Vozaci/Vozaci/Vozaci/Program.cs",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 1/01 - Vozaci/Vozaci/Vozaci/Vozac.cs",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 1/01 - Vozaci/Vozaci/Vozaci/Program.cs",
+		"/C/Users/STEFAN~1/AppData/Local/Temp/Rar$DRa0.335/PlatformerTutorial.gmx/objects/oPhysics.object.gmx",
+		"/F/Emulators And Roms/MultiConsole Emulator/RetroArch/config/ShitOutOLuck.cfg",
+		"/F/Emulators And Roms/MultiConsole Emulator/RetroArch/playlists/Sony - PlayStation.lpl",
+		"/F/Emulators And Roms/xBox360/xenia-master-9dec0a6e0d41ea8296c0542dd372fdd236a9bb00/LICENSE",
+		"/C/x360 controller emu/x360ce.ini",
+		"/F/Emulators And Roms/MultiConsole Emulator/RetroArch/retroarch.cfg",
+		"/F/Emulators And Roms/MultiConsole Emulator/RetroArch/config/RetroArch-0919-204141..cfg",
+		"/F/Emulators And Roms/MultiConsole Emulator/RetroArch/retroarch.default.cfg",
+		"/C/x360 controller emu/xinput1_3.dll",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Drugi Trimestar/OOP Java/Nedelja 8 - PREDJENO/Resenje/Vezba8/Prozor.java",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Drugi Trimestar/OOP Java/Nedelja 8 - PREDJENO/Resenje/Vezba8/Main.java",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Drugi Trimestar/OOP Java/Nedelja 8 - PREDJENO/Resenje/Vezba8/Dijalog.java",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Drugi Trimestar/OOP Java/Nedelja 8 - PREDJENO/Resenje/Vezba8/Baza.java",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Drugi Trimestar/OOP Java/Nedelja 8 - PREDJENO/Resenje/Vezba8/Student.java",
+		"/C/wamp64/www/pokedex/loginform.php",
+		"/C/wamp64/www/pokedex/javascript/script_jquery.js",
+		"/C/wamp64/www/pokedex/css/style.css",
+		"/F/DpiDesign 2015-2016/Portfolio Projects/Choose Your Destiny/javascript/script_jquery.js",
+		"/F/DpiDesign 2015-2016/Portfolio Projects/Choose Your Destiny/javascript/script_javascript.js",
+		"/C/wamp64/www/PHP1Website/index.php",
+		"/C/wamp64/www/pokedex/index.php",
+		"/F/Apps/Anime Time/AxInterop.WMPLib.dll",
+		"/C/wamp64/www/chooseyour/Index.html",
+		"/F/DpiDesign 2015-2016/Portfolio Projects/Pokedex Website/css/style.css",
+		"/F/DpiDesign 2015-2016/Portfolio Projects/Pokedex Website/javascript/script_jquery.js",
+		"/F/DpiDesign 2015-2016/Portfolio Projects/Pokedex Website/javascript/script_javascript.js",
+		"/F/DpiDesign 2015-2016/Portfolio Projects/Pokedex Website/javascript/script_particleeffect.js",
+		"/F/DpiDesign 2015-2016/Portfolio Projects/WebProgramiranje-DrugaGodina/Kompletan Sajt/css/style.css",
+		"/C/Users/STEFAN~1/AppData/Local/Temp/Rar$DRa0.761/greensock-js/src/uncompressed/TweenMax.js",
+		"/C/Users/STEFAN~1/AppData/Local/Temp/Rar$DRa0.694/greensock-js/src/minified/TweenMax.min.js",
+		"/C/wamp64/www/PHP1Website/register.php",
+		"/C/wamp64/www/PHP1Website/menubar.php",
+		"/C/wamp64/www/PHP1Website/logout.php",
+		"/C/wamp64/www/PHP1Website/addcateg.php",
+		"/C/Users/Stefan Petrovic/Desktop/PHP ISPIT/ispit/ispit/konekcija.inc",
+		"/C/Users/Stefan Petrovic/Desktop/PHP ISPIT/decembar2015/php1test/konekcija.inc",
+		"/C/Users/Stefan Petrovic/AppData/Local/Popcorn-Time-CE/data/shows.db",
+		"/C/Users/Stefan Petrovic/AppData/Local/Popcorn-Time-CE/data/settings.db",
+		"/C/Users/Stefan Petrovic/Downloads/gameovershop.byethost17.com-10-access_log (2).txt",
+		"/C/Users/Stefan Petrovic/Downloads/izmenivest (1).php",
+		"/C/Users/Stefan Petrovic/Downloads/izmenivest.php",
+		"/C/Users/Stefan Petrovic/Downloads/adminvesti.php",
+		"/C/Users/Stefan Petrovic/AppData/Local/Popcorn-Time-CE/data/movies.db",
+		"/C/wamp64/www/PHP1Website/xml/sitemap.xml",
+		"/C/wamp64/www/PHP1Website/javascript/featherlight.min.js",
+		"/C/wamp64/www/PHP1Website/javascript/script_jquery.js",
+		"/C/wamp64/www/PHP1Website/javascript/script_javascript.js",
+		"/C/wamp64/www/PHP1Website/css/featherlight.min.css",
+		"/C/wamp64/www/PHP1Website/css/style.css",
+		"/C/wamp64/www/PHP1Website/php/konekcija.inc",
+		"/C/wamp64/www/PHP1Website/php/funkcije.inc",
+		"/C/wamp64/www/PHP1Website/showproduct.php",
+		"/C/wamp64/www/PHP1Website/searchprod.php",
+		"/C/wamp64/www/PHP1Website/removefromcart.php",
+		"/C/wamp64/www/PHP1Website/rmcategories.php",
+		"/C/wamp64/www/PHP1Website/rmproducts.php",
+		"/C/wamp64/www/PHP1Website/rmuser.php",
+		"/C/wamp64/www/PHP1Website/contactpodaci.php",
+		"/C/wamp64/www/PHP1Website/products.php",
+		"/C/wamp64/www/PHP1Website/poll.php",
+		"/C/wamp64/www/PHP1Website/mycart.php",
+		"/C/wamp64/www/PHP1Website/homepage.php",
+		"/C/wamp64/www/PHP1Website/galerija.php",
+		"/C/wamp64/www/PHP1Website/emptycart.php",
+		"/C/wamp64/www/PHP1Website/contact.php",
+		"/C/wamp64/www/PHP1Website/categories.php",
+		"/C/wamp64/www/PHP1Website/adminpanel.php",
+		"/C/wamp64/www/PHP1Website/adduser.php",
+		"/C/wamp64/www/PHP1Website/addtocart.php",
+		"/C/wamp64/www/PHP1Website/addproducts.php",
+		"/C/wamp64/www/PHP1Website/aboutme.php",
+		"/C/Users/Stefan Petrovic/Desktop/ajax.js",
+		"/C/wamp64/www/dusanovsajt/pages/anketa.php",
+		"/C/wamp64/www/dusanovsajt/form-script.js",
+		"/C/wamp64/www/dusanovsajt/index.php",
+		"/C/wamp64/www/dusanovsajt/pages/footer.php",
+		"/C/wamp64/www/termin9_resenje/drugi.php",
+		"/C/wamp64/www/termin9_resenje/predmeti.php",
+		"/C/wamp64/www/termin9_resenje/prijava.php",
+		"/C/wamp64/www/termin9_resenje/ajax2.js",
+		"/C/wamp64/www/termin9_resenje/funkcije.inc",
+		"/C/wamp64/www/termin9_resenje/index.php",
+		"/C/wamp64/www/termin9_resenje/ajax_jquery.js",
+		"/C/wamp64/www/termin9_resenje/postanskibroj.php",
+		"/C/wamp64/www/termin9_resenje/unesikorisnika.php",
+		"/C/wamp64/www/termin9_resenje/ajax1.js",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin9_resenje/ajax1.js",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin9_resenje/postanskibroj.php",
+		"/C/wamp64/www/termin9_resenje/zatvori.inc",
+		"/C/wamp64/www/termin9_resenje/konekcija.inc",
+		"/C/wamp64/www/termin9_resenje/jquery.js",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin9_resenje/index.php",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin9_resenje/drugi.php",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin9_resenje/funkcije.inc",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin9_resenje/ajax2.js",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin9_resenje/ajax_jquery.js",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin9_resenje/zatvori.inc",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin9_resenje/unesikorisnika.php",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin9_resenje/prijava.php",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin9_resenje/predmeti.php",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin9_resenje/konekcija.inc",
+		"/C/wamp64/www/PHP1Website/cuvajuxml.php",
+		"/C/wamp64/www/PHP1Website/funkcije.inc",
+		"/C/wamp64/www/PHP1Website/checkout.php",
+		"/F/DpiDesign 2015-2016/Portfolio Projects/WebProgramiranje-DrugaGodina/Kompletan Sajt/Index.html",
+		"/F/DpiDesign 2015-2016/Portfolio Projects/WebProgramiranje-DrugaGodina/Kompletan Sajt/javascript/script_javascript.js",
+		"/F/DpiDesign 2015-2016/Portfolio Projects/WebProgramiranje-DrugaGodina/Kompletan Sajt/javascript/script_jquery.js",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Termin 3 - Resenje - PREDJENO/termin3_resenje/index.php",
+		"/C/wamp64/bin/php/php5.6.16/php.ini-development",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin3_resenje/podaci.php",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin3_resenje/index.php",
+		"/C/wamp64/www/termin6_resenje/index.php",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin2_resenje/index.php",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin4_resenje/obrada.php",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin4_resenje/index.php",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/Druga Godina/Treci Trimestar/PHP 1/Lab Ve/Sve Vezbe/termin5_resenje/index.html",
+		"/C/wamp64/www/PHP1Website/nonono.php",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/PHP1Website bekap/addproducts.php",
+		"/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs/PHP1Website bekap/adminpanel.php"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"600px",
+			";\n",
+			"position",
+			"cont",
+			"prod",
+			"h1",
+			"products_table",
+			";\n",
+			"\t\n",
+			"getuser",
+			"dir_velike",
+			"clear",
+			"uppercase",
+			">\n",
+			"32C24D",
+			">\n",
+			";\n",
+			"');\n",
+			"%;",
+			">\";\n",
+			"wrappercir",
+			"cr1",
+			"hwe",
+			"<html>\n<head>\n\n</head>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"40a351"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 6 - PREDJENO/Preduzece_V4/Preduzece/Preduzece/PreduzeceDb.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6073,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5394,
+								5394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 7.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 6 - PREDJENO/Preduzece_V4/Preduzece/Preduzece/PreduzeceModel/Zaposleni.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 6 - PREDJENO/Preduzece_V4/Preduzece/Preduzece/PreduzeceView/FZaposleni.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1116,
+								1116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 268.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Stefan Petrovic/Desktop/Ict.Edu.Rs III Godina/Prvi Trimestar/OOP C# 1/Vezba 6 - PREDJENO/Preduzece_V4/Preduzece/Preduzece/PreduzeceView/FGlavniProzor.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 35.0,
+						"translation.y": 789.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 249.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
