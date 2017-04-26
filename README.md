@@ -1,4 +1,4 @@
-# pokedex
+# Pokémon Pokédex / Powered by PokéAPI
 
 <p align="center">
 <a href="http://pokedex.petrovicstefan.rs" target="_blank">pokedex.petrovicstefan.rs</a>
