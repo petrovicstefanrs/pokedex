@@ -2,7 +2,7 @@
 	session_start();
 	include ('php/connection.inc');
 	
-	$pokeurl="http://pokeapi.co/api/v2/pokemon/";
+	$pokeurl="https://pokeapi.co/api/v2/pokemon/";
 	$pIds = array();
 	$userId=$conn->real_escape_string($_SESSION['user_id']);
 	$queryuserfav = "SELECT * FROM favourites WHERE userId ='$userId'";
