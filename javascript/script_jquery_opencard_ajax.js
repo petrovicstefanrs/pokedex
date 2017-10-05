@@ -47,7 +47,7 @@ $(document).ready(function () {
 		function fillData(){
 			$('.bigcard_card').each(function(){
 				//pokID = $(this).attr('card-id');
-				descUrl="http://pokeapi.co/api/v2/pokemon-species/"+klikId;
+				descUrl="https://pokeapi.co/api/v2/pokemon-species/"+klikId;
 				$.getJSON(descUrl, function(descpodaci){
 					$.ajax({
 						type: 'POST',
@@ -86,7 +86,7 @@ $(document).ready(function () {
         ////////////////////// FUNCTION THAT GETS POKEMON DATA FROM API //////////////////////////
 
         var pokeCounter = 0;
-		var pokeurl="http://pokeapi.co/api/v2/pokemon/"+klikId;
+		var pokeurl="https://pokeapi.co/api/v2/pokemon/"+klikId;
 		var pctload=100/3;
 		function getPokemonData(){
 			$.getJSON(pokeurl, function(pokepodaci){

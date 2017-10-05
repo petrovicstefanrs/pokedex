@@ -92,7 +92,7 @@ $(document).ready(function () {
     function fillDescriptions(){
         $('.poke-card').each(function(){
             pokID = $(this).attr('data-id');
-            descUrl="http://pokeapi.co/api/v2/pokemon-species/"+pokID;
+            descUrl="https://pokeapi.co/api/v2/pokemon-species/"+pokID;
             pctload=100/(resulCount*2);
             var pokeDesc;
             $.getJSON(descUrl, function(descpodaci){

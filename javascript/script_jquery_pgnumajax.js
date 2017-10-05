@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	/////////////////// AJAX THAT GETS AND SETS SESSION VAR FOR MAX PG NUMBER //////////////////
 
-	var api = "http://pokeapi.co/"
+	var api = "https://pokeapi.co/"
 	var apimaxpgurl=api+"api/v2/pokemon/";
 	function getMaxPg(){
 

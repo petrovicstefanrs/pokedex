@@ -66,7 +66,7 @@ $(document).ready(function() {
 	////////////////////// FUNCTION THAT GETS POKEMON DATA FROM API //////////////////////////
 
 	var pokeCounter=0;
-	var api = "http://pokeapi.co/"
+	var api = "https://pokeapi.co/"
 	var apiurl=api+"api/v2/pokemon/"+urloffset;
 	var resulCount = 0;
 	function getPokemonData(){
@@ -158,7 +158,7 @@ $(document).ready(function() {
 			    else{
 			    	$('#search_loader').css('display', 'flex');									// ELSE SHOW LOADER AND LOAD POKECARD
 			    	searchpokeCounter = 0;
-			    	var searchurl = "http://pokeapi.co/api/v2/pokemon/"+pokename;
+			    	var searchurl = "https://pokeapi.co/api/v2/pokemon/"+pokename;
 			    	$.getJSON(searchurl, function(searchpodaci){								// BASIC DATA FIRST AJAX CALL
 						$.ajax({
 							type: 'POST',
@@ -189,7 +189,7 @@ $(document).ready(function() {
 							    	// GET SEARCH RESULT POKE DESCRIPTION
 
 							    	searchID = $('.search-wrapper .poke-card').attr('data-id');
-									searchdescUrl="http://pokeapi.co/api/v2/pokemon-species/"+searchID;
+									searchdescUrl="https://pokeapi.co/api/v2/pokemon-species/"+searchID;
 									var pokeDesc;
 									$.getJSON(searchdescUrl, function(searchdescpodaci){
 										pokeDesc=searchdescpodaci.flavor_text_entries[1].flavor_text;
